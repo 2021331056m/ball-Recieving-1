@@ -13,7 +13,7 @@ The "Ball recieving" is a classic game where players control a player on a linea
 
 ## Controls
 
-- right: r or l - for controlling the player's direction.
+- write for right: r or for left: l - for controlling the player's direction.
 
 ## Obstacle
 
