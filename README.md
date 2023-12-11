@@ -37,5 +37,5 @@ The key development goals include implementing essential game features such as u
 
 ## Team Members
 
-- **Maliha Nusrat(Reg: 2021331056) - [Milon](https://github.com/2021331056m)**
-- **Tabassum Huda Oyshi (Reg: 2021331066) - [Forhad](https://github.com/2021331070oyshi)**
+- **Maliha Nusrat(Reg: 2021331056) - [Maliha](https://github.com/2021331056m)**
+- **Tabassum Huda Oyshi (Reg: 2021331066) - [Oyshi](https://github.com/2021331070oyshi)**
