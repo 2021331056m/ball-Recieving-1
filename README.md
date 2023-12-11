@@ -1,4 +1,4 @@
-# ball-recieving
+# Ball-recieving
 Project 150
 
 ## Ball recieving
