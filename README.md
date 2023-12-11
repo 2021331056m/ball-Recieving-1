@@ -1,4 +1,4 @@
-# Ball-recieving - tictactoe
+# Ball-recieving-tictactoe
 Project 150
 
 ## Ball recieving
