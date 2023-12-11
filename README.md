@@ -33,7 +33,7 @@ The key development goals include implementing essential game features such as u
 
 4. **Algorithm Implementation:** Implement basic algorithms for collision detection and score tracking, enhancing algorithmic thinking skills.
 
-5. **Teamwork and Collaboration:** Enhance teamwork and collaboration skills through group project work as part of Team TwoPointers.
+5. **Teamwork and Collaboration:** Enhance teamwork and collaboration skills through group project work as part of Team tictactoe.
 
 ## Team Members
 
